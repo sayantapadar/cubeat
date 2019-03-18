@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">CUbeat</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+    <string name="title_activity_view_post">ViewPostActivity</string>
+    <string name="title_activity_acount">AcountActivity</string>
+
+    <string name="title_activity_search">Search</string>
+    <string name="connect_with_us_on_social_media">Connect with us on Social Media</string>
+    <string name="image_logo_string">logo</string>
+    <string name="facebooklogo">facebookLogo</string>
+    <string name="twitter_logo">twitter_logo</string>
+    <string name="search_fail_pic">search_fail_pic</string>
+    <string name="to">To</string>
+    <string name="search_icon">search_icon</string>
+    <string name="from">From</string>
+    <string name="keyword">Keyword</string>
+    <string name="search_background">search_background</string>
+    <string name="post_picture">post_picture</string>
+    <string name="comments">Comments</string>
+    <string name="to_comment_or_like_please_open_the_link_through_the_web_browser">To comment or like, please open the link through the web browser</string>
+    <string name="image_pager_image_content">image_pager_image_content</string>
+    <string name="title">Title</string>
+    <string name="list_pic_content">list_pic_content</string>
+    <string name="app_developer">App Developer</string>
+    <string name="sayan_tapadar">Sayan Tapadar</string>
+    <string name="designer">Designer</string>
+    <string name="anirban_datta_gupta">Anirban Datta Gupta</string>
+    <string name="founder">Founder</string>
+    <string name="shounak_mukherjee">Shounak Mukherjee</string>
+
+    <string name="about_text_content"><![CDATA[<pre>CUbeat is a news and media website, run by and for students at the University of Calcutta. We aim to provide the students of the University, and its affiliated colleges, with a common platform to keep up to date with what&rsquo;s happening inside and outside the University, connect with one another and forge a sense of community within the University.<br /><br />Love to write? Join us as a "<strong>College correspondent"</strong> or "<strong>Special correspondent</strong>"<br />Send in your <strong>personal details</strong>/<strong>sample article</strong>/<strong>essay</strong>/<strong>opinion piece</strong> to <a href="mailto:submissions@cubeat.in">submissions@cubeat.in</a></pre>]]></string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "24532118267",
+    "project_id": "firebase-cubeat"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24532118267:android:ad9ae6ad769dc9e8",
+        "android_client_info": {
+          "package_name": "in.cubeat.cubeat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24532118267-hgl4lerrvt2neh9nppk7rsr1blrrgs1m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.cubeat.cubeat",
+            "certificate_hash": "E07B9557B6930DC2120A453A6BEEB7DFE220A591"
+          }
+        },
+        {
+          "client_id": "24532118267-pob9dkpri50t924d8n86pkn4o0kpkoaa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI5BuGIB0dNQLPZ5xtJeueJAYOFckR8B0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

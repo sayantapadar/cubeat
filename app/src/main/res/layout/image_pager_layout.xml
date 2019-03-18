@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="300dp">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:id="@+id/image_pager_picture"
+        android:contentDescription="@string/image_pager_image_content" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/image_pager_text"
+        android:background="@color/transparentBlack"
+        android:foregroundGravity="bottom|center_horizontal"
+        android:gravity="bottom|center_horizontal"
+        android:padding="16dp"
+        android:textColor="@android:color/white"
+        android:textSize="24sp"/>
+</FrameLayout>

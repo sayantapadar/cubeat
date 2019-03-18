@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#039be5</color>
+    <color name="colorPrimaryDark">#0288d1</color>
+    <color name="colorAccent">#0091ea</color>
+    <color name="transparentBlack">#35000000</color>
+    <color name="logo_back">#5DBFF7</color>
+    <color name="recycler_view_background">#ffffff</color>
+    <color name="light_grey">#eeee</color>
+    <color name="black_transparent">#50000000</color>
+
+    <color name="facebook_blue">#3b5998</color>
+    <color name="twitter_blue">#0084b4</color>
+</resources>

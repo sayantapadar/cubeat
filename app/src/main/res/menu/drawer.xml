@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <group
+        android:id="@+id/grp1" android:checkableBehavior="single" >
+        <item
+            android:id="@+id/item1"
+            android:icon="@drawable/ic_editorial"
+            android:title="Editorial"
+            android:checkable="false"/>
+        <item
+            android:id="@+id/item2"
+            android:icon="@drawable/ic_news"
+            android:title="News Stories"
+            android:checkable="false"/>
+        <item
+            android:id="@+id/item3"
+            android:icon="@drawable/ic_cub_talk"
+            android:title="CUB Talk"
+            android:checkable="false"/>
+        <item
+            android:id="@+id/item4"
+            android:icon="@drawable/ic_film_review"
+            android:title="Film Reviews"
+            android:checkable="false"/>
+        <item
+            android:id="@+id/item5"
+            android:icon="@drawable/ic_upcoming"
+            android:title="Upcoming events"
+            android:checkable="false"/>
+    </group>
+    <group
+        android:id="@+id/grp2" android:checkableBehavior="single">
+        <item
+            android:id="@+id/item7"
+            android:icon="@drawable/ic_search"
+            android:title="Search"
+            android:checkable="false"/>
+        <item
+            android:id="@+id/item6"
+            android:icon="@drawable/ic_about_us"
+            android:title="About Us"
+            android:checkable="false"/>
+    </group>
+</menu>
